@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="impala_audit_elasticsearch_1775,impala_audit_spark" />
+  </component>
+</project>
